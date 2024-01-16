@@ -27,3 +27,8 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+article {
+    color: rgb(104, 30, 4);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
